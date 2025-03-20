@@ -11,4 +11,4 @@ Nós somos a área de inovação da **Sonar**, focada em explorar o potencial da
 
 ---
 
-Feito com 💜 pela **Sonar Labs** - Transformando dados em inteligência.
+Feito com 💜 pela **Sonar Labs** - Onde ideias ganham vida e o futuro se reinventa.
