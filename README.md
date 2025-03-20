@@ -9,6 +9,10 @@ Nós somos a área de inovação da **Sonar**, focada em explorar o potencial da
 - 📊 **Geramos insights**: Apoiamos decisões estratégicas com análises precisas e visualizações claras.
 - 🛠 **Construímos soluções**: Desenvolvemos ferramentas e aplicações para otimizar processos.
 
+## 
+
+_"Na **Sonar Labs**, acreditamos que a Inteligência Artificial não é apenas sobre algoritmos e códigos, mas sobre pessoas curiosas, inovadoras e dispostas a desafiar limites. É na soma do talento humano com a tecnologia que construímos o futuro.”_
+
 ---
 
-Feito com 💜 pela **Sonar Labs** - Onde ideias ganham vida e o futuro se reinventa.
+Feito com 💜 pela **Sonar Labs** - Onde ideias se tornam realidade e o futuro se reinventa.
