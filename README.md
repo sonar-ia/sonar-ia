@@ -1,16 +1,14 @@
-## Hi there 👋
+# Sonar Labs
 
-<!--
-**sonar-ia/sonar-ia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Nós somos a área de inovação da **Sonar**, focada em explorar o potencial da **Inteligência Artificial** e da **análise de dados** para transformar informações complexas em insights estratégicos. Nosso objetivo é impulsionar decisões inteligentes e aumentar a eficiência operacional por meio de soluções tecnológicas avançadas.
 
-Here are some ideas to get you started:
+## O que fazemos?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔍 **Exploramos dados**: Transformamos dados brutos em informações valiosas.
+- 🤖 **Desenvolvemos IA**: Criamos modelos de machine learning e IA para resolver problemas complexos.
+- 📊 **Geramos insights**: Apoiamos decisões estratégicas com análises precisas e visualizações claras.
+- 🛠 **Construímos soluções**: Desenvolvemos ferramentas e aplicações para otimizar processos.
+
+---
+
+Feito com 💜 pela **Sonar Labs** - Transformando dados em inteligência.
