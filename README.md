@@ -1,4 +1,4 @@
-# Labs/IA 🚀
+# Labs/IA 
 
 > *Onde ideias se tornam realidade. Onde pessoas se tornam extraordinárias.*
 
