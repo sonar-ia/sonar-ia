@@ -1,48 +1,61 @@
-# Labs/IA 
-
-> *Onde ideias se tornam realidade. Onde pessoas se tornam extraordinárias.*
+# Labs 
+> *Onde crescer é compromisso de todos. Onde dados se tornam decisões.*
 
 ## 🧠 Sobre
+Na **Labs**, cada colaborador é protagonista na missão de **transformar empresas por meio de dados e inteligência**. Nosso sucesso nasce da coragem de errar rápido, aprender juntos e entregar valor real, sempre com transparência, responsabilidade e colaboração.
 
-Na **Labs/IA**, não buscamos atalhos — buscamos **evolução constante**. 
-
-Transformamos processos em soluções inteligentes, tarefas em impacto e talento em legado. Nossa jornada começa onde a zona de conforto termina.
+Somos movidos pela paixão de ajudar empresas a alcançarem seus objetivos por meio de **decisões informadas, baseadas em dados precisos**.
 
 ## 🎯 O que fazemos
+- 📊 **Análise de dados** para insights estratégicos e operacionais
+- 🤖 **Inteligência Artificial** aplicada a problemas de negócio
+- ⚡ **Automação inteligente** de processos e workflows
+- 🔬 **Experimentação** contínua com tecnologias emergentes
+- 📈 **Business Intelligence** para tomada de decisão
+- 🔧 **Soluções customizadas** em dados e analytics
 
-- 🤖 **Inteligência Artificial** aplicada a problemas reais
-- 📊 **Análise de dados** para insights valiosos  
-- ⚡ **Automação** de processos repetitivos
-- 🔬 **Experimentação** contínua com novas tecnologias
+## 🔭 Visão
+Consolidar as **3 vertentes estratégicas** da Sonar:
+
+**🏢 NexaHub** • Receita recorrente de clientes que nos buscam ativamente  
+**🚗 PrimeLink** • Referência nacional em BI para concessionárias JD e outros 4 ramos  
+**🌍 GlobalElite** • Relevância em algum segmento nos EUA
 
 ## 💎 Nossos valores
 
-**🔍 Curiosidade** • Buscamos conhecimento continuamente  
-**🤝 Humildade** • Aprendemos com erros e diferentes perspectivas  
-**💬 Transparência** • Comunicação clara e construção de confiança  
-**🎯 Alta Performance** • Excelência com responsabilidade  
-**🚀 Inovação** • Criação de soluções baseadas em conhecimento sólido  
-**🤝 Contribuição** • Sucesso coletivo acima do individual
+**🔍 Transparência** • Diálogo aberto e honesto, especialmente em temas delicados  
+**🎯 Alta Performance Responsável** • Excelência com equilíbrio e impacto real  
+**🚀 Desenvolvimento & Inovação Contínua** • Aprendizado diário e experimentação rápida  
+**🤝 Cultura de Contribuição** • Ganhamos juntos ou não ganhamos
 
 ## 🛠️ Tech Stack
+```
+🐍 Python  •  🤖 Machine Learning  •  📊 Data Science  •  📈 Power BI
+☁️ Azure Cloud  •  🔧 Automation  •  📊 Analytics  •  🧠 AI/ML
+```
 
-```
-🐍 Python  •  🤖 Machine Learning  •  📊 Data Science
-☁️ Cloud Computing  •  🔧 Automation  •  📈 Analytics
-```
+## 📊 Gestão Transparente
+Todos os projetos são geridos pelo **Azure Boards Morppheus**:
+- ✅ Cada atividade tem dono, visibilidade e prioridade
+- 🔄 Processo cíclico orientado ao aprendizado coletivo  
+- 📝 Feedbacks, bugs e melhorias sempre viram cartões visíveis
 
 ## 📈 Estatísticas
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sonar-ia&show_icons=true&theme=dark&count_private=true)
 
-## 🌟 Filosofia
+## 🌟 Como nossos valores se encadeiam
+*Transparência* gera informação clara →  
+*Informação clara* ativa *Cultura de Contribuição* →  
+*Contribuição* acelera *Desenvolvimento & Inovação* →  
+*Inovação sustentada* alimenta *Alta Performance Responsável* →  
+**Resultados sólidos** reforçam a confiança, fechando o ciclo.
 
-*"A inteligência artificial não é apenas sobre algoritmos e códigos, mas sobre pessoas curiosas, inovadoras e dispostas a desafiar limites. É na soma do talento humano com a tecnologia que construímos o futuro."*
+## 🎯 Filosofia
+*"Dados não são apenas números, mas histórias esperando para serem contadas. É na união entre curiosidade humana e tecnologia inteligente que transformamos informação em decisões que movem negócios e mudam realidades."*
 
 ---
 
 ### 📫 Conecte-se conosco
+Cada projeto é uma chance de **transformar empresas**. Cada insight, uma **decisão mais inteligente**.
 
-Cada projeto é uma chance de marcar a diferença. Cada linha de código, uma semente de transformação.
-
-**Transformando o presente. Construindo o futuro.** ✨
+**Feito com 💜 por Labs – Onde crescer é compromisso de todos.** ✨
