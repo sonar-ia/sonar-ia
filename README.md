@@ -44,11 +44,12 @@ Todos os projetos são geridos pelo **Azure Boards Morppheus**:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sonar-ia&show_icons=true&theme=dark&count_private=true)
 
 ## 🌟 Como nossos valores se encadeiam
-*Transparência* gera informação clara.
-*Informação clara* ativa *Cultura de Contribuição*.  
-*Contribuição* acelera *Desenvolvimento & Inovação*. 
-*Inovação sustentada* alimenta *Alta Performance Responsável*.
-**Resultados sólidos** reforçam a confiança, fechando o ciclo.
+- Transparência gera informação clara.
+- Informação clara ativa Cultura de Contribuição.
+- Contribuição acelera Desenvolvimento & Inovação.
+- Inovação sustentada alimenta Alta Performance Responsável.
+- Resultados sólidos reforçam a confiança, fechando o ciclo.
+Quando um valor falha, o ciclo quebra. Quando todos estão presentes, criamos uma máquina de aprendizado e entrega.
 
 ## 🎯 Filosofia
 *"Dados não são apenas números, mas histórias esperando para serem contadas. É na união entre curiosidade humana e tecnologia inteligente que transformamos informação em decisões que movem negócios e mudam realidades."*
