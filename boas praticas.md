@@ -104,6 +104,19 @@ Todos os commits devem seguir o padrão abaixo:
 | `improvement` | Melhoria em algo existente                      |
 | `chore`       | Atividades técnicas / infraestrutura            |
 
+| Tipo              | Uso no Contexto de BI                           |
+|-------------------|-------------------------------------------------|
+| `feat/bi-`        | Para a criação de novas funcionalidades de BI, como criação de dashboards, relatórios, gráficos (ex: feature/bi-criar-dashboard-financeiro). |
+| `fix/bi-`         | Para correção de problemas específicos de BI, como ajustes em relatórios, gráficos ou visualizações (ex: fix/bi-ajustar-grafico-vendas).     |
+| `perf/bi-`        | Para otimização de performance de dashboards, consultas SQL, ou visualizações de dados (ex: perf/bi-otimizar-relatorio-vendas).              |
+| `refactor/bi-`    | Para refatoração de código de BI, como melhorar a estrutura de relatórios ou consultas sem mudar o comportamento (ex: refactor/bi-refatorar-consulta-relatorio). |
+| `style/bi-`       | Para ajustes visuais ou sintáticos em dashboards, relatórios, gráficos (ex: style/bi-ajustar-estilo-grafico)  |
+| `docs/bi-`        | Para atualizar ou criar documentação de BI, como explicação sobre como usar o dashboard ou interpretar relatórios (ex: docs/bi-atualizar-documentacao-dashboard).|
+| `test/bi-`        | Para adição ou correção de testes de BI (ex: test/bi-criar-teste-dashboard).  |
+| `improvement/bi-` | Para melhorias incrementais em relatórios, visualizações de dados ou performance de BI (ex: improvement/bi-melhorar-desempenho-dashboard).|
+| `chore/bi-`       | Para tarefas técnicas, como atualização de dependências de ferramentas de BI (ex: chore/bi-atualizar-dependencias-bi).        |
+
+
 ### Exemplos de commits:
 
 - `feat: adiciona suporte a múltiplos usuários no dashboard`
